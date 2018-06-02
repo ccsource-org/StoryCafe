@@ -1,0 +1,28 @@
+{
+  "name": "storycafe",
+  "version": "0.0.1",
+  "description": "StoryCafe is a storytelling platform designed and developed by CCSource.org",
+  "main": "app.min.js",
+  "scripts": {
+    "test": "node app.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccsource-org/StoryCafe.git"
+  },
+  "keywords": [
+    "story",
+    "storytelling",
+    "pubilshing",
+    "platform",
+    "CCSource.org",
+    "ccsource.org",
+    "ccsource-org"
+  ],
+  "author": "Andrew,CCSource.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccsource-org/StoryCafe/issues"
+  },
+  "homepage": "https://github.com/ccsource-org/StoryCafe#readme"
+}
