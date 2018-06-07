@@ -30,6 +30,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "minify": "^3.0.5",
-    "mollify": "^2.0.2"
+    "mollify": "^2.0.2",
+    "pug": "^2.0.3"
   }
 }

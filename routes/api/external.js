@@ -8,4 +8,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 // parse application/json
 app.use(bodyParser.json())
 
+//setup login
+//create post
+
 module.exports = app;
