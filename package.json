@@ -4,7 +4,8 @@
   "description": "StoryCafe is a storytelling platform designed and developed by CCSource.org",
   "main": "app.min.js",
   "scripts": {
-    "test": "node app.min.js"
+    "test": "node app.js",
+    "start": "node minify.js && node app.min.js"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
   "homepage": "https://github.com/ccsource-org/StoryCafe#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "minify": "^3.0.5"
   }
 }
