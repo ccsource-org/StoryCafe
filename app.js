@@ -3,6 +3,11 @@
 var express = require('express');
 var app = express();
 
+//minify files
+app.use(mollify({
+    dir: './',
+    is: true // default
+}));
 //setup pages
 //serve posts
 //serve login/signup page
